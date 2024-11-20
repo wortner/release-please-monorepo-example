@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.3.1](https://github.com/wortner/release-please-monorepo-example/compare/hello-react@v0.3.0...hello-react@v0.3.1) (2024-11-20)
+
+
+### Bug Fixes
+
+* rozbite ([e94aa85](https://github.com/wortner/release-please-monorepo-example/commit/e94aa85f0351ffb2c94ec1d45eea87888cf91c53))
+
 ## [0.3.0](https://github.com/wortner/release-please-monorepo-example/compare/hello-react-v0.2.0...hello-react@v0.3.0) (2024-11-20)
 
 
