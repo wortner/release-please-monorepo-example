@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.3.2](https://github.com/wortner/release-please-monorepo-example/compare/hello-react@v0.3.1...hello-react@v0.3.2) (2024-11-20)
+
+
+### Bug Fixes
+
+* novy test ([16a058e](https://github.com/wortner/release-please-monorepo-example/commit/16a058ee4a50255a7601fbc99a98edbb199e2a5b))
+* test ([cd11229](https://github.com/wortner/release-please-monorepo-example/commit/cd11229f854ed489da7053ddc4c243d8b723c3ec))
+
 ## [0.3.1](https://github.com/wortner/release-please-monorepo-example/compare/hello-react@v0.3.0...hello-react@v0.3.1) (2024-11-20)
 
 
